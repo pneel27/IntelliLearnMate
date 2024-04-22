@@ -18,5 +18,5 @@ Front-End : Flask<br/>
 Vector DB : FIASS<br/><br/>
 
 Output:<br/>
-![Alt text](https://github.com/pneel27/IntelliLearnMate/blob/main/Screenshot%20(161).png)?raw=true "SampleOutput1") <br/>
-![Alt text](https://github.com/pneel27/IntelliLearnMate/blob/main/Screenshot%20(162).png)?raw=true "SampleOutput2") 
+![Alt text](https://github.com/pneel27/IntelliLearnMate/blob/main/Screenshot%20(161).png?raw=true "SampleOutput1") <br/>
+![Alt text](https://github.com/pneel27/IntelliLearnMate/blob/main/Screenshot%20(162).png?raw=true "SampleOutput2") 
