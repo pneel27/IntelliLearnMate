@@ -4,9 +4,9 @@ This ChatBot Application utilizes a custom dataset by converting it into vectors
 Implementation Steps:<br/>
 Step 1: Extract data from the PDF file <br/>
 Step 2: Split the data into chunks.<br/>
-Step 3: Convert the chunks to vector using embedding model and store them into FIASS DB.<br/>
+Step 3: Convert the chunks to vector using embedding model and store them into FAISS DB.<br/>
 Step 4: Creating Prompt Template<br/>
-Step 5: Loading Index from FIASS DB<br/>
+Step 5: Loading Index from FAISS DB<br/>
 Step 6: Initializing Language Model and RetrievalQA Chain, which helps to generate the relevant response according to question. <br/>
 Step 7: Utilized Flask for User Interface <br/><br/>
 
